@@ -1,0 +1,2 @@
+g++ first.cpp -pthread -lmongoclient -lboost_thread -lboost_system -lboost_regex -o first -I./include -Llib
+
